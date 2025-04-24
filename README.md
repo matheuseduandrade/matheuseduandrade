@@ -1,55 +1,44 @@
-# 👋 Hello, I am Matheus Eduardo
+# 👋 Olá, eu sou Matheus Eduardo
 
-I am a student of Systems Analysis and Development, passionate about programming, and always seeking new challenges to expand my knowledge. Currently, I am focused on becoming a **Full-Stack Developer** and, eventually, a **Lead Developer**.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por programação e sempre buscando novos desafios para expandir meu conhecimento. Atualmente, estou focado em me tornar um desenvolvedor Full-Stack.
 
-## 🚀 My Skills
+## 🚀 Minhas Habilidades
 
-### Programming Languages:
-- **C++**: Studying to improve my knowledge.
-- **C#**: Have basic knowledge and am expanding my skills.
-- **Python**: Basic knowledge in scripting and task automation.
+### Linguagens de Programação:
+- **C++**: Conhecimento básico, em processo de aprimoramento.
+- **Python**: Conhecimento intermediário em scripting e automação de tarefas.
+- **HTML5 & CSS3**: Conhecimento intermediário/básico para criar layouts simples.
+- **Linux**: Conhecimento básico em administração de sistemas e uso como ambiente de desenvolvimento.
+- **Git & GitHub**: Controle de versão e colaboração em projetos open-source.
 
-### Technologies and Tools:
-- **HTML5 & CSS3**: Basic knowledge for creating simple layouts.
-- **Linux**: Basic knowledge in system administration and using it as a development environment.
-- **Git & GitHub**: Version control and collaboration in open-source projects.
+## 📜 Certificações e Licenças
 
-## 📜 Certifications and Licenses
+- **CC50 - Harvard Computer Science**  
+  Habilidades: JavaScript, SQL, HTML5, Flash, Python, Scratch  
 
-### ![Fundação Estudar]
-- **CC50 - Harvard Computer Science**
-  - **Skills**: JavaScript, SQL, HTML5, Flash, Python, Scratch
+- **HTML, CSS e JavaScript - Fundação Bradesco**  
+  Habilidades: JavaScript, HTML5, Suporte Técnico, CSS, Resolução de Problemas, Habilidades Analíticas  
 
-### ![Fundação Bradesco]
-- **HTML, CSS, and JavaScript**
-  - **Skills**: JavaScript, HTML5, Technical Support, CSS, Problem Solving, Analytical Skills
+- **Get Connected - Cisco Networking Academy**  
+  Habilidades: Suporte Técnico, Resolução de Problemas, Habilidades Analíticas  
 
-### ![Cisco Networking Academy]
-- **Get Connected**
-  - **Skills**: Technical Support, Problem Solving, Analytical Skills
+- **HTML - Básico - Fundação Bradesco**  
+  Habilidades: HTML5, Suporte Técnico, Resolução de Problemas, Habilidades Analíticas  
 
-### ![Fundação Bradesco]
-- **HTML - Basic**
-  - **Skills**: HTML5, Technical Support, Problem Solving, Analytical Skills
+- **Introduction to Packet Tracer - Cisco Networking Academy**  
+  Habilidades: Tecnologias de Redes Sem Fio, Suporte Técnico, Redes de Computadores, Packet Tracer, Resolução de Problemas, Habilidades Analíticas  
 
-### ![Cisco Networking Academy]
-- **Introduction to Packet Tracer**
-  - **Skills**: Wireless Networking Technologies, Technical Support, Computer Networks, Packet Tracer, Problem Solving, Analytical Skills
+- **Introduction to Cybersecurity - Cisco Networking Academy**  
+  Habilidades: Resolução de Problemas, Habilidades Analíticas  
 
-### ![Cisco Networking Academy]
-- **Introduction to Cybersecurity**
-  - **Skills**: Problem Solving, Analytical Skills
+- **NDG Linux Unhatched - Cisco Networking Academy**  
+  Habilidades: Microsoft PowerPoint, Linux, Redes de Computadores, Resolução de Problemas, Habilidades Analíticas  
 
-### ![Cisco Networking Academy]
-- **NDG Linux Unhatched**
-  - **Skills**: Microsoft PowerPoint, Linux, Computer Networks, Problem Solving, Analytical Skills
+- **Data Communication Technologies - GYN Cursos**  
+  Habilidades: Redes de Computadores  
 
-### ![GYN Cursos]
-- **Data Communication Technologies**
-  - **Skills**: Computer Networks
+## 📫 Como me encontrar
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/matheuseduandrade)  
+- **Email**: matheuseduandrade@gmail.com  
 
-## 📫 How to Reach Me
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/matheuseduandrade/)
-- **Email**: matheuseduandrade@gmail.com
-
-I am always open to new opportunities and connections in the software development field. Let's connect and create something amazing together!
+Estou sempre aberto a novas oportunidades e conexões na área de desenvolvimento de software. Vamos nos conectar e criar algo incrível juntos!
